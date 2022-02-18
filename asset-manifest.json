@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Keeper-App/static/js/main.81665f28.chunk.js",
-    "main.js.map": "/Keeper-App/static/js/main.81665f28.chunk.js.map",
-    "runtime-main.js": "/Keeper-App/static/js/runtime-main.b7e645fa.js",
-    "runtime-main.js.map": "/Keeper-App/static/js/runtime-main.b7e645fa.js.map",
-    "static/js/2.29359291.chunk.js": "/Keeper-App/static/js/2.29359291.chunk.js",
-    "static/js/2.29359291.chunk.js.map": "/Keeper-App/static/js/2.29359291.chunk.js.map",
-    "index.html": "/Keeper-App/index.html",
-    "precache-manifest.51b62581ab25ceb60bb6c2cd648a1854.js": "/Keeper-App/precache-manifest.51b62581ab25ceb60bb6c2cd648a1854.js",
-    "service-worker.js": "/Keeper-App/service-worker.js"
+    "main.js": "/StickyNote/static/js/main.81665f28.chunk.js",
+    "main.js.map": "/StickyNote/static/js/main.81665f28.chunk.js.map",
+    "runtime-main.js": "/StickyNote/static/js/runtime-main.1e06f56d.js",
+    "runtime-main.js.map": "/StickyNote/static/js/runtime-main.1e06f56d.js.map",
+    "static/js/2.29359291.chunk.js": "/StickyNote/static/js/2.29359291.chunk.js",
+    "static/js/2.29359291.chunk.js.map": "/StickyNote/static/js/2.29359291.chunk.js.map",
+    "index.html": "/StickyNote/index.html",
+    "precache-manifest.a4fadc8fde5a5fff824f3c3c5d7fe7dd.js": "/StickyNote/precache-manifest.a4fadc8fde5a5fff824f3c3c5d7fe7dd.js",
+    "service-worker.js": "/StickyNote/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7e645fa.js",
+    "static/js/runtime-main.1e06f56d.js",
     "static/js/2.29359291.chunk.js",
     "static/js/main.81665f28.chunk.js"
   ]
