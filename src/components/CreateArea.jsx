@@ -42,7 +42,7 @@ function CreateArea(props) {
           name="content"
           value={input.content}
           placeholder="Take a note..."
-          rows={isExpanded ? 3 : 1}
+          rows={isExpanded ? 10 : 1}
         />
         <Zoom in={isExpanded}>
           <Fab

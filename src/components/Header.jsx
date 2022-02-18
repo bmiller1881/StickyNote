@@ -1,12 +1,12 @@
 import React from "react";
-import HighlightIcon from "@material-ui/icons/Highlight";
+import NoteIcon from "@material-ui/icons/Note";
+import Edit from "@material-ui/icons/Edit";
 
 function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+        <Edit /> StickyNote <NoteIcon />
       </h1>
     </header>
   );

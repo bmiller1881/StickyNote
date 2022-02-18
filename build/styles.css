@@ -7,16 +7,16 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #fffda2;
+  background: #eee;
   padding: 0 16px;
+  background-image: url("http://www.transparenttextures.com/patterns/dark-wood.png");
 }
 
 header {
-  background-color: #ff6363;
+  background-color: #f5ba13;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
-  text-align: center;
 }
 
 header h1 {
@@ -41,8 +41,7 @@ footer p {
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
-  width: 200px;
-  height: 200px;
+  width: 240px;
   margin: 16px;
   float: left;
 }
@@ -72,7 +71,7 @@ footer p {
 
 form.create-note {
   position: relative;
-  width: 400px;
+  width: 480px;
   margin: 30px auto 20px auto;
   background: #fff;
   padding: 15px;
